@@ -67,5 +67,5 @@ https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema?h
 
 ## Author
 
-Please fell to reach me on Linkein
+Please feel free to reach me on Linkein
 Gilson Santos -> https://www.linkedin.com/in/gsantospdigital/
